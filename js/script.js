@@ -1,8 +1,9 @@
 $("#shoot").click(function(){
 $("#userChoice").text($("#input").val());
 
-
-
+var computerchoice="";
+console.log(computerchoice);
+var 
 
 
 
